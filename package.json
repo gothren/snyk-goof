@@ -46,8 +46,8 @@
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
     "tap": "^5.7.0",
-    "snyk": "^1.290.2",
-    "sequelize": "5.1.0",
+    "snyk": "^1.685.0",
+    "sequelize": "6.1.0",
     "influx": "5.0.5"
   },
   "devDependencies": {
